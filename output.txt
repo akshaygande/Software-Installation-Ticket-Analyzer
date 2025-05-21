@@ -1,0 +1,2343 @@
+Testing text analyzer with transformed output:
+
+Input text: Installation of Mysql Workbench
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Mysql Workbench', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Mongo DB
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Mongo DB', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WASP Request for NodeJS software and MongoDB for project learning.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': ['request'], 'software': 'NodeJS', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for project learning.'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': ['request'], 'software': 'MongoDB', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for project learning.'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Installation of Maven
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Maven', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Open JDK 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Open JDK', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: HI Team, kindly help install software _x000D_
+_x000D_
+1-	SessionManagerPluginSetup_x000D_
+2-	AWSCLIV2_x000D_
+3-	AmazonSSMAgentSetup
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': 'SessionManagerPluginSetup_x000D', 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': 'AWSCLIV2_x000D', 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': 'AmazonSSMAgentSetup', 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need putty access for the business purposes.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': ['access'], 'software': 'putty', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['business purposes'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please install node.js in my machine
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'node.js', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Mysql
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Mysql', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the MAVEN
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'MAVEN', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Nodejs 20.2
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Nodejs', 'packages': [], 'versions': ['20.2'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the STS
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'STS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation .netcore 6
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': '.netcore', 'packages': [], 'versions': ['6'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please help with Power BI installation and set-up to learn and practice power BI dashboards creation and all.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Power BI', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['to learn and practice'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Opebjdk
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'openjdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  ApacheTomcat 10.1.0
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'ApacheTomcat', 'packages': [], 'versions': ['10.1.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install ProHance in My machine
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'ProHance', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: FortiClientMiniSetup-Windows-x64-Enterprise-7.2.3 - Need to install this software with Admin user.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'FortiClientMiniSetup-Windows', 'packages': [], 'versions': ['Enterprise-7.2.3'], 'targets': [], 'justifications': [], 'licenses': ['Enterprise']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Istallation of the Openjdk
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Istallation'], 'software': 'Openjdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: i need  open jdk software to complete mandatory training
+
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'open jdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['to complete mandatory training'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Open jdk
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Open jdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install .net 7.0
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': '.net', 'packages': [], 'versions': ['7.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Removal of Java 21
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Removal'], 'software': 'Java', 'packages': [], 'versions': ['21'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Java 17
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Java', 'packages': [], 'versions': ['17'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help in installing the Ctirix version 2405
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': 'citrix', 'packages': [], 'versions': ['2405'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Visio installation 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "SSMS" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'SSMS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install software on a laptop?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Require java 1.8 to complete assignments and learning.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['require'], 'software': 'java', 'packages': [], 'versions': ['1.8'], 'targets': [], 'justifications': ['to complete', 'complete assignments'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install softwares eclipse, jdk and sql work bench latest version
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'eclipse', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'jdk', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'sql work bench', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Installation of Appium GUI Server and Appium Inspector
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Appium GUI Server', 'packages': [], 'versions': [], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Appium Inspector', 'packages': [], 'versions': [], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: I need to download eclipse IDE
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['download'], 'software': 'eclipse', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: install putty and notepad ++ in my machine
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'putty', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'notepad ++', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: installation of SF CLI
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'SF CLI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visual studio  enterprice with msdn" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visual studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Enterprise']}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'msdn', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Enterprise']}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Need to install nvm and node modules for project work in my local system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'nvm', 'packages': [], 'versions': [], 'targets': ['local system'], 'justifications': ['for project work'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'node modules', 'packages': [], 'versions': [], 'targets': ['local system'], 'justifications': ['for project work'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: installation of IDE Eclipse
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'IDE Eclipse', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team,
+
+Could you please install Java and JDK in my system to work on Spring tool suite
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Java', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': ['to work on Spring tool suite'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'JDK', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': ['to work on Spring tool suite'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Oracle database 19c reinstallation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['reinstallation'], 'software': 'Oracle database', 'packages': [], 'versions': ['19c'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: MySql not getting installed
+task_id: 1, {'task_id': 1, 'type': ['Not getting installed', 'Act'], 'Tasks': ['installed'], 'software': 'MySql', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installatin of the Power BI
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installatin'], 'software': 'Power BI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Open JDK 22
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Open JDK', 'packages': [], 'versions': ['22'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install notepad++
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install software?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: No - INC11203012
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'INC', 'packages': [], 'versions': ['11203012'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I got new windows book. I need assistance to download and install the necessary apps
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': [], 'packages': [], 'versions': [], 'targets': ['windows book'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: i am not able to use this software AWSCLIV2
+task_id: 1, {'task_id': 1, 'type': ['Not able to'], 'Tasks': [''], 'software': 'AWSCLIV2', 'packages': ['AWSCLIV2'], 'versions': ['2'], 'targets': [], 'justifications': ['to use'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install node js software in my machine. Need admin creds to proceed with the installation.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'node js', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': ['admin creds'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install Excel in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'Excel', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I am not able to download the dependences while the doing mvn clean install. Please can look at this issue. maybe it has network issue.
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act', 'Act'], 'Tasks': ['download'], 'software': 'mvn clean install', 'packages': [], 'versions': [], 'targets': ['network'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: As per client requirement please upgrade VDI version 8.12.1 or greater.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['upgrade'], 'software': 'VDI', 'packages': [], 'versions': ['8.12.1'], 'targets': ['VDI'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need Microsoft teams & citrix installed
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Microsoft teams', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'citrix', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Installation of the  VISIO2019
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'VISIO', 'packages': [], 'versions': ['2019'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Unable to install PUTTY Application in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'PUTTY', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Pycharm IDE and Robot Framework 7.0.1 for python training.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Pycharm', 'packages': [], 'versions': ['7.0.1'], 'targets': [], 'justifications': ['for python training'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Robot Framework', 'packages': [], 'versions': ['7.0.1'], 'targets': [], 'justifications': ['for python training'], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'python', 'packages': [], 'versions': ['7.0.1'], 'targets': [], 'justifications': ['for python training'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Hi,_x000D_
+I had laptop sanitization and all the previous microsoft applications have been erased. Need help in installing the microsoft applications( ms teams, outlook, presentation etc). Currently using web browser to access these applications.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['access'], 'software': 'ms teams', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['access'], 'software': 'outlook', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: wanted to install Cisco Packet Tracer 8.2.2 Windows 64bit
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Cisco Packet Tracer', 'packages': [], 'versions': ['8.2.2'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: installation of sql developer
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'sql developer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please install global protect version 5.2.6-87 in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'global protect', 'packages': [], 'versions': ['5.2.6', '87'], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: new teams installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'teams', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to connect with a live agent?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Connect'], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install Excel application in my system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'Excel', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Libreoffice installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Libreoffice', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  Openjdk22.0
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Openjdk', 'packages': [], 'versions': ['22.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation   oracle 21 C
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'oracle', 'packages': [], 'versions': ['21'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation  power BI publisher latest _x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'power BI', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install vs code
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'vs code', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Chrome extension enable
+task_id: 1, {'task_id': 1, 'type': ['Enable'], 'Tasks': ['enable'], 'software': 'Chrome extension', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: require admin acess to install angular cli
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['require'], 'software': 'angular', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation "excel"
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'excel', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Chevron Virtual Workspace (CVW)
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'CVW', 'packages': [], 'versions': [], 'targets': ['Virtual Workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want software installation in my laptop for project requirement.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team ,
+
+I am writing to request the installation of  Cisco Jabber Application on my System . As Part of my project requirement this application is necessary to download.
+Your prompt assistance in expediting this request would be greatly appreciated. If there are any additional steps or considerations, please feel free to guide me. Thank you for your support.
+
+Best Regards,
+Jayant Mishra
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['download'], 'software': 'Cisco Jabber', 'packages': [], 'versions': [], 'targets': ['System'], 'justifications': [], 'licenses': ['free']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: _x000D_
+manual installation of "Microsoft Visio Professional" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Adobe Acrobat Professional DC" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Adobe Acrobat', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: laptop fermented need to install all the software
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team, kindly help me to install postman software on my laptop as per client requested thanks
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'postman', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['client requested'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want to install Android Studio.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Android Studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visio Professional 2019" against"WASP-Operations Team approval"._x000D_
+_x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': ['2019'], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: please help me with the power bi desktop application installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'power bi', 'packages': [], 'versions': [], 'targets': ['desktop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: AVAYA Workspace installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'AVAYA Workspace', 'packages': [], 'versions': [], 'targets': ['Workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation for node js
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'node js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please install git to my system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'git', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Python for Python training
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for Python training'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  Postgresql16.0
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Postgresql', 'packages': [], 'versions': ['16.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of  "Microsoft Visio standard" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['standard']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visual studio Professional with MSDN" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visual studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'MSDN', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: SAP GUI Logon Pad 8.00 version should be install
+Zscaler policy update from Windows to Maxis
+ Global protect need to install
+ 
+Please Install the above softwares.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['install'], 'software': 'SAP GUI Logon Pad', 'packages': [], 'versions': ['8.00'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['install'], 'software': 'Zscaler', 'packages': [], 'versions': ['8.00'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['install'], 'software': 'Global protect', 'packages': [], 'versions': ['8.00'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Node.js software installation.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Node.js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation in global protect version 5.2.10 and after it is connected, the system restarts or shut down.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'global protect', 'packages': [], 'versions': ['5.2.10'], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need notepad++ installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need remote desktop installed on my machine.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'remote desktop', 'packages': [], 'versions': [], 'targets': 'machine', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team,
+Requires admin access for installing amazon workspace updates. Early help will be highly appreciated
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['access'], 'software': 'amazon workspace', 'packages': [], 'versions': [], 'targets': ['workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: install git and postman for project work
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'git', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for project work'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'postman', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for project work'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Hi Team,_x000D_
+_x000D_
+Kindly help in downloading Postgresql and Pgadmin tool.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Postgresql', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'Pgadmin', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: MS Teams ,One drive and Remote Desktop to be installed in
+Host Name -APL-PG02GX4P
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Remote Desktop', 'packages': [], 'versions': [], 'targets': 'host', 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'MS Teams', 'packages': [], 'versions': [], 'targets': 'host', 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'One drive', 'packages': [], 'versions': [], 'targets': 'host', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: cannot be able to raise request regarding software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Team, please help in getting Pycharm software installed, which is IDE for Pyhton.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Pycharm', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install oracle virtual box on laptop.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'oracle virtual box', 'packages': [], 'versions': [], 'targets': 'laptop', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Microsoft SQL Server Management Studio 18.11.1
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'SQL Server Management Studio', 'packages': [], 'versions': ['18.11.1'], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  Microsoft SQL Server Express 2019
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'SQL Server Express', 'packages': [], 'versions': ['2019'], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  Microsoft Visual Studio Enterprise with Github 2022
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Microsoft Visual Studio', 'packages': [], 'versions': ['2022'], 'targets': [], 'justifications': [], 'licenses': ['Enterprise']}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Github', 'packages': [], 'versions': ['2022'], 'targets': [], 'justifications': [], 'licenses': ['Enterprise']}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Hi Team, Please install java openjdk software. Regards Siddesh
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'java', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'openjdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Please help to install anaconda in windows server._x000D_
+AZC-RPAUAT-TW02
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'anaconda', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  Adobe Acrobat Professional DC 202
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Adobe Acrobat', 'packages': [], 'versions': ['202'], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Dear Team,_x000D_
+_x000D_
+Please help me to install JAVA JDK file in my laptop._x000D_
+_x000D_
+Thanks!
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'JAVA JDK', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need Docker application for learn DevOps..
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Docker', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for learn DevOps..'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Node.js" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Node.js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft .netframework" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': '.netframework', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microstation" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microstation', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AUTOSAS" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AUTOSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to create an IT request?
+task_id: 1, {'task_id': 1, 'type': ['How to'], 'Tasks': ['request'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AUTOSAS" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AUTOSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AUTOSAS" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AUTOSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AUTOSAS" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AUTOSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AUTOSAS" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AUTOSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "AutoSAS" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'AutoSAS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Eclipse 2024
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Eclipse', 'packages': [], 'versions': ['2024'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Storyline" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Storyline', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install ARCON app
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'ARCON', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Articulate 360" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Articulate', 'packages': [], 'versions': ['360'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Notepad++ installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation putty 0.81
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'putty', 'packages': [], 'versions': ['0.81'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi,
+Need MS Visio to be installed in my Laptop for one of the transition of new account
+
+Thanks
+Sankeerthana
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'MS Visio', 'packages': [], 'versions': [], 'targets': ['Laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Angular CLI Installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Angular', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Require support staff assistance to install apps
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['require'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team, I've got installed SSMS and SQL server but still I'm not able to find server name/instance . Thats why I'm not able to connect with DB with server. Please help me to resolve this issue.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Not able to', 'Not able to', 'Connect'], 'Tasks': ['installed'], 'software': 'SQL server', 'packages': [], 'versions': [], 'targets': ['server', 'instance'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Not able to', 'Not able to', 'Connect'], 'Tasks': ['installed'], 'software': 'SSMS', 'packages': [], 'versions': [], 'targets': ['server', 'instance'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Python libraries are not getting installed
+task_id: 1, {'task_id': 1, 'type': ['Not getting installed', 'Act'], 'Tasks': ['installed'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: install a software Oracle OpenJDK 22.0.1 (aarch64)
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Oracle OpenJDK', 'packages': [], 'versions': ['22.0.1'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi,This is my new windows laptop.Need the following at the earliest  please: 1)MS Teams installation 2)Outlook installation 3)Access to Wipro Provided Internet WIFI connection($t@yw!f!)
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['access'], 'software': 'Teams', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: New team not installing, Older version having issues in sending screenshots or opening images
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: [10:19 AM] Abhinav Ranjan
+facing an issue to install software in my laptop
+ 
+[10:19 AM] Virtual Helpline Agent
+I couldn't find any item that matches your search queryI couldn't find any item that matches your search query 
+[10:19 AM] Virtual Helpline Agent
+The conversation has ended. If you need help again, type hi.The conversation has ended. If you need help again, type hi. 
+[10:19 AM] Abhinav Ranjan
+hi
+ 
+[10:19 AM] Virtual Helpline Agent
+Hi, I'm your Virtual Helpline Agent.Hi, I'm your Virtual Helpline Agent.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop', 'Virtual'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want to install IntelliJ in my system 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'IntelliJ', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: minitab installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'minitab', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation : Matrix
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Matrix', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to upgrade client RDP?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['upgrade'], 'software': 'RDP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to uninstall and reinstall checkpoint VPN on my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['uninstall'], 'software': 'checkpoint VPN', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: can you please install vnc viewer required to work for Microchip project.
+Raising this ticket on behalf of babun.chandrapal@wipro.com
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'vnc viewer', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['to work'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Could you please setup and install teams, outlook, google chorme, 7-Zip, MS Word, MS Excel.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'teams', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'outlook', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'google', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': '7-Zip', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 5, {'task_id': 5, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Word', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 6, {'task_id': 6, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Excel', 'packages': [], 'versions': ['7'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 6
+
+Input text: How to install AWS vpns client on a Windows laptop?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'AWS', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: could you please install below software 
+software details:
+Office,oracle,python,snowflake,notepad++
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'oracle', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'snowflake', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': ['Act'], 'Tasks': ['install'], 'software': 'notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 4
+
+Input text: I need to install Mysql on my local machine for internal POC. But when I am trying to install its asking Admin credential.
+
+Kindly help to install Mysql on local machine
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['install'], 'software': 'Mysql', 'packages': [], 'versions': [], 'targets': 'local', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation to access the ALT server over the VPN and PAM
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['access'], 'software': 'ALT', 'packages': [], 'versions': [], 'targets': ['ALT', 'server', 'PAM'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['access'], 'software': 'PAM', 'packages': [], 'versions': [], 'targets': ['ALT', 'server', 'PAM'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Avaya agent installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Avaya agent', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation Citrix version 24.3.1.97
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Citrix', 'packages': [], 'versions': ['24.3.1.97'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the MSDN 2022
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'MSDN', 'packages': [], 'versions': ['2022'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation node js 21 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'node js', 'packages': [], 'versions': ['21'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install AZURE CLI
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'AZURE CLI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hello,
+
+I would like to get access of Notepad++, Adobe Acrobat reader.  It will be required for reading the logs as well as getting the Report output checks.
+
+Regards,
+Tarashankar Majee
+Employee ID:  20532766
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['access'], 'software': 'Notepad++', 'packages': [], 'versions': ['20532766'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['access'], 'software': 'Adobe Acrobat', 'packages': [], 'versions': ['20532766'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: need notepad ++ install on my laptop , kindly do the needful
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'notepad ++', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation Citrix version 24.3.1.97
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Citrix', 'packages': [], 'versions': ['24.3.1.97'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: In Ubuntu VM facing issue.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': ['VM'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: install cisco-secure-client-win-5.1.3.62-predeploy-k9
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco-secure-client', 'packages': [], 'versions': ['win-5.1.3.62'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: mfa repush for new mobile -9886455314
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: streamlit python
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'streamlit', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: "WINSCP"_x000D_
+software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Citix workspace installation issue.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': ['workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Getting issues while installing Docker in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': 'Docker', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please help to install streamlit library of python.
+This needs to be installed on commandline. 
+https://pypi.org/project/streamlit/
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installed'], 'software': 'streamlit', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['installed'], 'software': 'python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: manual installation of "Open JDK" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Open JDK', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I am not able to install python  packages in vscode
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'vscode', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Windows Firewal
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: To install visual studio
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'visual studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Unable to install the catalog software SOAPUI.
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'SOAPUI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software InstallationSSMS 19 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['InstallationSSMS'], 'software': [], 'packages': [], 'versions': ['19'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation Mysql 8.37 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Mysql', 'packages': [], 'versions': ['8.37'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation Virtual Box
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': ['Virtual'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: laptop mfa repush- user  uable  to authentication to login -9594250510
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation dbForge Studio For PostgreSQL 1.0.410
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'dbForge', 'packages': [], 'versions': ['1.0.410'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'PostgreSQL', 'packages': [], 'versions': ['1.0.410'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Hi, I want to get install Tableau public software into my laptop. Please help me to install that.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Tableau public', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation oracle 21 C 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'oracle', 'packages': [], 'versions': ['21'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Microsoft Visual C++ 14.0 or greater is required.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': [''], 'software': [], 'packages': [], 'versions': ['14.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of IDM plugin in word.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'word', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Kindly help in installing the below required software in my machine which required to complete course in wiLearn 
+1. Open JDK 11 or higher version
+2. Eclipse IDE latest version
+3. Tomcat 9 or higher version
+4. Any relational database(MySQL/Oracle/h2)
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['installing'], 'software': 'Open JDK', 'packages': [], 'versions': ['11', '2', 'latest', '3', '9', '4'], 'targets': ['machine'], 'justifications': ['to complete'], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['installing'], 'software': 'Eclipse', 'packages': [], 'versions': ['11', '2', 'latest', '3', '9', '4'], 'targets': ['machine'], 'justifications': ['to complete'], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['installing'], 'software': 'Tomcat', 'packages': [], 'versions': ['11', '2', 'latest', '3', '9', '4'], 'targets': ['machine'], 'justifications': ['to complete'], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['installing'], 'software': 'Oracle', 'packages': [], 'versions': ['11', '2', 'latest', '3', '9', '4'], 'targets': ['machine'], 'justifications': ['to complete'], 'licenses': []}
+task_id: 5, {'task_id': 5, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['installing'], 'software': 'h2', 'packages': [], 'versions': ['11', '2', 'latest', '3', '9', '4'], 'targets': ['machine'], 'justifications': ['to complete'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 5
+
+Input text: Software Installation open jdk 22
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'open jdk', 'packages': [], 'versions': ['22'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Request to install Python and Anaconda on the device for training purpose.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': ['device'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Anaconda', 'packages': [], 'versions': [], 'targets': ['device'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Can you please install Globalprotect 5.2.4 or above
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': ['5.2.4'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Require oracle Virtual box and install ubuntu VM inside that.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['require'], 'software': 'oracle Virtual box', 'packages': [], 'versions': [], 'targets': ['Virtual', 'VM'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team, I want to install JDK version 17 in my system for training purpose.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'JDK', 'packages': [], 'versions': ['17'], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Request to install MS Office, Teams, PDF Viewer, Global Protect on my newly received laptop for the purpose of Stryker project
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Teams', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Global Protect', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: TortoiseGit-2.15.0.0 need to be installed.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': [], 'packages': [], 'versions': ['TortoiseGit-2.15.0.0'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Git-2.43.0-64-bit need to be installed.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': [], 'packages': [], 'versions': ['Git-2.43.0', '64'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: instalar postgresql localmente
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['instalar'], 'software': 'postgresql', 'packages': [], 'versions': [], 'targets': ['localmente'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install MySQL software?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'MySQL', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Require support to install VS code - RITM2541128
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['require'], 'software': 'RITM', 'packages': [], 'versions': ['2541128'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['require'], 'software': 'VS code', 'packages': [], 'versions': ['2541128'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Software Installation : oracle VM virtual box Mobaxterm home
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'oracle', 'packages': [], 'versions': [], 'targets': ['VM', 'virtual'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Mobaxterm', 'packages': [], 'versions': [], 'targets': ['VM', 'virtual'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Prohance Icon is not showing
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Prohance', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visio Professional" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I am unable to open VISIO which is already installed
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['installed'], 'software': 'VISIO', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: openjdk 22
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'openjdk', 'packages': [], 'versions': ['22'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: eclipse 2024-06
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'eclipse', 'packages': [], 'versions': ['2024', '06'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microstation.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microstation', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microstation.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microstation', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microstation.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microstation', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microstation.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microstation', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microstation latest 
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microstation', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: sts 4
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'sts', 'packages': [], 'versions': ['4'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: powerbi 2.12
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': ['2.12'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install Microsoft project software on my PC
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Python(latest version) and Visual Studio Code (latest version) installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Visual Studio', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Grammmerly" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Grammerly" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please help to complete installation process for postgresql software_x000D_
+Getting the attached errors while accessing postgres
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'postgresql', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['to complete'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: installation of node js
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'node js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Eclispe " against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Open JDK" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Open JDK', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Python" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install notepad++
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Notepad++" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Grammarly" against"WASP-Operations Team approval.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Grammarly', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visio Professional" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Request to install Notepad++, Microsoft azure storage explorer, SAP Logon
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['request'], 'software': 'azure storage explorer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['request'], 'software': 'SAP Logon', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Hi Team,_x000D_
+_x000D_
+Could you please install Android Studio and SDK components in my System on urgently basis._x000D_
+_x000D_
+Thank you!
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Android Studio', 'packages': [], 'versions': [], 'targets': ['System'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: please install power bi app
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'power bi', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Requesting software team assistance for setting up git. facing error and not recognising on command prompt.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'git', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Unable to install SAP GUI & HANA Studio to access BW on HANA, BW/4 HANA applications. So Please install the same in my machine.
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act', 'Act'], 'Tasks': ['access'], 'software': 'SAP GUI', 'packages': [], 'versions': [], 'targets': ['machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Oracle Database 21c express editon" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Oracle Database', 'packages': [], 'versions': ['21c'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Microsoft Visio Professional" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Microsoft Visio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I am on free pool now. and have a Visual Studio Professional License valid till March 2025. I need Visual Studio Professional software for learning and assessment purpose.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Visual Studio', 'packages': [], 'versions': ['2025'], 'targets': [], 'justifications': ['for learning'], 'licenses': ['free', 'Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Avaya.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi I need these software:- Eclipse, pycharm, maven, Vmware Horizon client 2312.1,  Pingid, Global protect,Outlook, java, python, testNG, Cucumber,jenkin,
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Eclipse', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'pycharm', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': [], 'Tasks': [''], 'software': 'maven', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': [], 'Tasks': [''], 'software': 'Vmware', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 5, {'task_id': 5, 'type': [], 'Tasks': [''], 'software': 'Pingid', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 6, {'task_id': 6, 'type': [], 'Tasks': [''], 'software': 'Global protect', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 7, {'task_id': 7, 'type': [], 'Tasks': [''], 'software': 'Outlook', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 8, {'task_id': 8, 'type': [], 'Tasks': [''], 'software': 'java', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 9, {'task_id': 9, 'type': [], 'Tasks': [''], 'software': 'python', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 10, {'task_id': 10, 'type': [], 'Tasks': [''], 'software': 'testNG', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 11, {'task_id': 11, 'type': [], 'Tasks': [''], 'software': 'Cucumber', 'packages': [], 'versions': ['2312.1'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 11
+
+Input text: VM Ware horizon client installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'VM Ware horizon client', 'packages': [], 'versions': [], 'targets': ['VM'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install SAP GUI 770 in my system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SAP GUI', 'packages': [], 'versions': ['770'], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Oracle SQL developer" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Oracle SQL developer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: _x000D_
+manual installation of "Winscp" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Winscp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Notepad++" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Windows pC , desktop application , need help installing software - power bi on the machine
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': 'power bi', 'packages': [], 'versions': [], 'targets': ['desktop', 'machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Cisco Packet tracker in my Wipro Machine for assessment today at 3pm. Please help me asap
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Cisco Packet tracker', 'packages': [], 'versions': ['3'], 'targets': ['Machine'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install win OTP
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'win OTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I am not able to connect Remote desktop connection, need to install Global protect software.
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Connect', 'Act'], 'Tasks': ['install'], 'software': 'Remote desktop', 'packages': [], 'versions': [], 'targets': ['desktop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Not able to', 'Connect', 'Act'], 'Tasks': ['install'], 'software': 'Global protect', 'packages': [], 'versions': [], 'targets': ['desktop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: i need install for SAP HANA Studio 2.3.67
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SAP HANA Studio', 'packages': [], 'versions': ['2.3.67'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: python installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install Cisco AnyConnect Secure Mobility Client software on my laptop?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'Cisco AnyConnect Secure Mobility', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Enterproce Arichtecure" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Enterprice Architecure', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Minitab Application is not woking .Error pop-up: "Sorry, you don't have permission to visit the site"
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Minitab', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: installation of AWS workspace
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'AWS', 'packages': [], 'versions': [], 'targets': ['workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Citrix is not working
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Citrix', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install postman software
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'postman', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Nedd to do host entry in etc/host.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': 'host', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install new software?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Cisco Secure Client
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Cisco Secure Client', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install the UBS My desk before that need the help on prerequisites to complete
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'UBS My desk', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['to complete'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation of  open jdk path set admin access required
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['access'], 'software': 'open jdk', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Remote desktop application to be installed to connect VDI
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Connect'], 'Tasks': ['installed'], 'software': 'Remote desktop', 'packages': [], 'versions': [], 'targets': ['desktop', 'VDI'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Connect'], 'Tasks': ['installed'], 'software': 'VDI', 'packages': [], 'versions': [], 'targets': ['desktop', 'VDI'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: How to get the remote desktop app, version 1.2.5112 or above, 64 bit on windows 10?
+task_id: 1, {'task_id': 1, 'type': ['How to'], 'Tasks': [''], 'software': 'remote desktop', 'packages': [], 'versions': ['1.2.5112', '64', '10'], 'targets': ['desktop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: JAVA Client
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'JAVA', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Webex and MS Teams installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Webex', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'MS Teams', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Webex and MS Teams installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Webex', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'MS Teams', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Notepad ++ instalaltion
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['instalaltion'], 'software': 'Notepad ++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hello Team,_x000D_
+please install checkpoint endpoint software.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'checkpoint endpoint', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need Notepad++ and Snagit softwares installed
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Snagit', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Wireshark installation 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: OpenSSL install for OCA project
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'OpenSSL', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for OCA project'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Putty install for OCA Olympus
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Putty', 'packages': [], 'versions': [], 'targets': [], 'justifications': ['for OCA Olympus'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Kindly install  Node JS  & Visual Studio
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Node JS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Visual Studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: NEED TO INSTALL  pgdmin and Notepad++ setup file, also please share the setup file.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['INSTALL'], 'software': 'pgdmin', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['INSTALL'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: manual installation of "Adobe Acrobat Professional DC" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Adobe Acrobat', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please update my MS team version. It is showing an alert (for update) every time I relaunch the software.
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'MS team', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Request for installation of Putty
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Putty', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Require assistance with access to install NVIDIA CUDA on laptop
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['access'], 'software': 'NVIDIA CUDA', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi team, 
+Please help set Java path in System variables.  Also install Notepad++
+
+Regards
+Raju
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Java', 'packages': [], 'versions': [], 'targets': ['System'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': ['System'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Citrix workspace 2403v installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Citrix workspace', 'packages': [], 'versions': ['2403v'], 'targets': ['workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please help me to install Soap UI in my Laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Soap UI', 'packages': [], 'versions': [], 'targets': ['Laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Putty Installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Putty', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install wireshark in system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: i want to install cisco packet tracer.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team,
+
+Could you please help me get these installed
+1. python 3.12.4
+2. Java and Eclipse IDE
+3. Pydev for eclipse
+4. Notepad++
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Pydev for eclipse', 'packages': [], 'versions': ['3.12.4'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'python', 'packages': [], 'versions': ['3.12.4'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Java', 'packages': [], 'versions': ['3.12.4'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Notepad++', 'packages': [], 'versions': ['3.12.4'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 4
+
+Input text: I want to install software name Wireshark.  Also, my device was not tagged properly
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': ['device'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: i need to install Wireshark and cisco packet tracer.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: i need to install Wireshark and cisco packet tracer.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Wireshark software install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of cisco-secure-client-win-5.1.3.62-predeploy-k9. Thank you.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'cisco-secure-client', 'packages': [], 'versions': ['win-5.1.3.62'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: please help OS install Tableu
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Tableu', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: please install the below software 
+1. PGADMIN 4
+2. dbeaver
+3. Notepad ++
+4. SQL Developer
+5. putty
+6. MS -Teams
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SQL Developer', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'PGADMIN', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'dbeaver', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Notepad ++', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 5, {'task_id': 5, 'type': ['Act'], 'Tasks': ['install'], 'software': 'putty', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 6, {'task_id': 6, 'type': ['Act'], 'Tasks': ['install'], 'software': 'MS -Teams', 'packages': [], 'versions': ['1', '4', '2', '3', '5', '6'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 6
+
+Input text: Need help in installing the postman
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': 'postman', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: i  have to install Citrix work space as its not allowed to me to install
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Citrix work space', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need Ms SQL Server Management studio 2019  software for my hands on
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'SQL Server Management studio', 'packages': [], 'versions': ['2019'], 'targets': ['Server'], 'justifications': ['for my hands on'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of Avaya.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need cisco packet tracer in mac book
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install wireshark in the system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Oracle forms not opening in my system, until yesterday it was opening fine. Uninstall and reinstall the java in my system
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['Uninstall'], 'software': 'Oracle', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['Uninstall'], 'software': 'java', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: I need to install Wireshark and cisco packet tracer.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: i need to install wireshark and cisco packet tracer.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Install VDI plug in
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'VDI', 'packages': [], 'versions': [], 'targets': ['VDI'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: require postgres software
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['require'], 'software': 'postgres', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Visual Studio Installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Visual Studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Request to install visual studio code on my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'visual studio', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Google installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Google', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help with software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team, as per project requirements, we need node version-18.12.1 to be installed. Could you please help me out in installation.
+Thank you
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'node', 'packages': [], 'versions': ['version-18.12.1'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hello team,_x000D_
+Good day...!_x000D_
+_x000D_
+Kindly install RDC application on my Wipro laptop for BAU activity._x000D_
+_x000D_
+Thank you.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'RDC', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Winscp installation is failing and crashing .  See attachment.
+Only laptop is coming in dropdown.....!! Please move this ticket to Application support group.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Winscp', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: pdf  installation   while sending mails   screen shots not visible
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please install Packet Tracer on my Laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Packet Tracer', 'packages': [], 'versions': [], 'targets': ['Laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of GP and Prohance.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'GP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Prohance', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: I want to install cisco packet tracer
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need for software installation - Visual Studio Code and Jupyter Notebook - Python
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Visual Studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Jupyter Notebook', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: installation of Amazon Workspaces
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Amazon Workspaces', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Microsoft store Block issue
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microsoft store', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Notepad++8.6
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': ['Notepad++8.6'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WinOTP installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'WinOTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi , Please help me to install python 3.10 and visual studio code in my laptop , Since its a standby laptop , I could not raise service request for this because its asking for a device to choose.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'visual studio', 'packages': [], 'versions': ['3.10'], 'targets': ['laptop', 'device'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['request'], 'software': 'python', 'packages': [], 'versions': ['3.10'], 'targets': ['laptop', 'device'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: How to install matrix?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'matrix', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to installation Oracle SQL
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Oracle SQL', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: EMP ID - 20452087
+EMP Name - Pradeep Pawar - The employee's laptop was formatted and he needs to install all Wipro related applications and (Rain Process - Business) related applications as well.  Currently nothing is working on Laptop.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': ['20452087'], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Issue while installing software
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: To install wireshark and CISCO packet tracer
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'CISCO packet tracer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Unable to add certificates downloaded to java path from command prompt ,getting access is denied
+task_id: 1, {'task_id': 1, 'type': ['Not able to'], 'Tasks': ['access'], 'software': 'java', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi team, please help me to install python-3.11.4 amd64.exe_x000D_
+I have the set-up file ready with me._x000D_
+ _x000D_
+EMP ID:  20500306_x000D_
+NAME:  Abhishek Shaw_x000D_
+Email id:  abhishek.shaw@wipro.com_x000D_
+HOST NAME:  APL-5CD138LV8P
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': ['python-3.11.4'], 'targets': 'host', 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want to install wireshark and cisco packet tracer in my office laptop.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco packet tracer', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Please install ivanti application in my laptop. This is latest version of pulse secure.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'ivanti', 'packages': [], 'versions': ['latest'], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: end pint compliance
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Open JDK" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Open JDK', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Intellij IDEA" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Intellij', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install eclipse IDLE, Spring tool suite, MySQL.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'eclipse', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'IDLE', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'MySQL', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Need to install salesforce cli software for vs code setup for salesforce
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'salesforce', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'vs code', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: i need to install wireshark and ciscopacket tracer in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the citrixworkspace 
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'citrixworkspace', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi, I want to download node js and angular cli.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['download'], 'software': 'node js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['download'], 'software': 'angular', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Kindly install Editplus on my laptop since its required for project to work to analyze complex data._x000D_
+My Laptop Host - L-156258911_x000D_
+_x000D_
+Note - No Valid category found so raising ticket here. Kindly transfer to right group._x000D_
+_x000D_
+Regards_x000D_
+Shraddha
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Editplus', 'packages': [], 'versions': [], 'targets': 'laptop', 'justifications': ['for project', 'to work'], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: software installation required vscode
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'vscode', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: not able SSH to client server
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'SSH', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi, I need to install a software where I need some help to enter admin credentials, please help.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Install Visual Studio Code
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'Visual Studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help in installing wireshark in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installing'], 'software': 'wireshark', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need assistant on Software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install SQL Developer in my system as it was recently sanitized and configured.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SQL Developer', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: 1.Oracle Developer Suite 10g (Form Builder, Reports Builder)
+2. Putty, WinSCP
+3. Notepad++
+4. Stat 6.3
+5. Outlook
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Putty', 'packages': [], 'versions': ['10', '2', '4', '6.3', '5'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'WinSCP', 'packages': [], 'versions': ['10', '2', '4', '6.3', '5'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': [], 'Tasks': [''], 'software': 'Notepad++', 'packages': [], 'versions': ['10', '2', '4', '6.3', '5'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 4, {'task_id': 4, 'type': [], 'Tasks': [''], 'software': 'Stat', 'packages': [], 'versions': ['10', '2', '4', '6.3', '5'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 5, {'task_id': 5, 'type': [], 'Tasks': [''], 'software': 'Outlook', 'packages': [], 'versions': ['10', '2', '4', '6.3', '5'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 5
+
+Input text: Unable to install power BI application
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'power BI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation of VS-code, VNC-Viewer, Global Protect.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Global Protect', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want to install Python3.10.4-amd64
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Python', 'packages': [], 'versions': ['3.10.4', '64'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'amd', 'packages': [], 'versions': ['3.10.4', '64'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: INSTALLATION OF PROHANCE.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['INSTALLATION'], 'software': 'PROHANCE', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help to install bellow application.
+cisco-secure-client-win-5.1.3.62-predeploy-k9
+https://metro.sharepoint.com/:f:/s/a_wipro_int12345678910/EmuoQhewAdFLj4MjetFsXXkBC4bn4sELzSt7ee8J2IYoSw?e=lQ2X9H
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'cisco-secure-client', 'packages': [], 'versions': ['win-5.1.3.62'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Notepad++ in my pc
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Requesting to install  SAP Logon, MS Azure storage explorer and Global protect VPN
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SAP Logon', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Azure storage explorer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Global protect', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Teams installation Request
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['request'], 'software': 'Teams', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to download free Power BI?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['download'], 'software': 'Power BI', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': ['free']}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install Eclipse for Java programming in my laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Eclipse', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Java', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Need to install WINSCP in system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'WINSCP', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to request to install matrix Workspace?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['request'], 'software': 'matrix Workspace', 'packages': [], 'versions': [], 'targets': ['Workspace'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software installation Citrix 24.3.1.97
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Citrix', 'packages': [], 'versions': ['24.3.1.97'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: To set the environment variable path for Java Eclipse application to access it .
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': ['access'], 'software': 'Java', 'packages': [], 'versions': [], 'targets': ['environment'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': ['access'], 'software': 'Eclipse', 'packages': [], 'versions': [], 'targets': ['environment'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Hi I am unable to login to my Project account i.e. Woolworths Account getting access denied issue. Please enable to add the "Endpoint Verification" into chrome which is currently blocked by admin.
+https://chromewebstore.google.com/detail/endpoint-verification/callobklhcbilhphinckomhgkigmfocg?hl=en&pli=1
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Enable'], 'Tasks': ['access'], 'software': 'chrome', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: sql server issue
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'sql server', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: power bi application
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'power bi', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Unable to get local issuer certificate, when I'm installing packages for DBT.
+getting below error:
+dbt_common.exceptions.connection.ConnectionError: External connection exception occurred: HTTPSConnectionPool(host='hub.getdbt.com', port=443): Max retries exceeded with url: /api/v1/index.json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)'))
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act', 'Not able to'], 'Tasks': ['installing'], 'software': 'DBT', 'packages': [], 'versions': ['v1'], 'targets': ['local'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "JAVA 411" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'JAVA', 'packages': [], 'versions': ['411'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "JAVA 411" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'JAVA', 'packages': [], 'versions': ['411'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "JAVA 411" against"WASP-Operations Team approval"._x000D_
+
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'JAVA', 'packages': [], 'versions': ['411'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: How to install Azure Storage Explorer?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'Azure Storage Explorer', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Visio 2019
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Visio', 'packages': [], 'versions': ['2019'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: OpenJDK 22
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'OpenJDK', 'packages': [], 'versions': ['22'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: minitab 19
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'minitab', 'packages': [], 'versions': ['19'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Postgresql
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Postgresql', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the  winscap
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'winscap', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Notepad++" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: manual installation of "Node.js" against"WASP-Operations Team approval".
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Node.js', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install Nodejs and Sublime software
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Nodejs', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Sublime', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: not able to install VDI
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'VDI', 'packages': [], 'versions': [], 'targets': ['VDI'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: New to configure new laptop and install Webex and Wipro One Drive
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['configure'], 'software': 'Webex', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['configure'], 'software': 'One Drive', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Microsoft Visio Professional 2019 and Microsoft Project Professional 2019
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Microsoft Visio', 'packages': [], 'versions': ['2019'], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'Microsoft Project Professional', 'packages': [], 'versions': ['2019'], 'targets': [], 'justifications': [], 'licenses': ['Professional']}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: SSMS software installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'SSMS', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installations like - SQL Server Management Studio, Soap UI
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installations'], 'software': 'SQL Server Management Studio', 'packages': [], 'versions': [], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['Installations'], 'software': 'Soap UI', 'packages': [], 'versions': [], 'targets': ['Server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Install entrust software IdentityGuard Soft Token
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'entrust software IdentityGuard Soft Token', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Software Installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need to install spring sts and mysql workbench latest version.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'mysql workbench', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'sts', 'packages': [], 'versions': ['latest'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: How to install Power BI on my laptop?
+task_id: 1, {'task_id': 1, 'type': ['How to', 'Act'], 'Tasks': ['install'], 'software': 'Power BI', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install postgres sql in laptop
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'postgres sql', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I want to install tabular editor in my asset
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'tabular editor', 'packages': [], 'versions': [], 'targets': ['asset'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need to install required softwares on the newly given laptop, but on the dot portal the new laptop is not appearing , so that I can select to create a software installation request.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act', 'Act'], 'Tasks': ['request'], 'software': [], 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: App needs to be installed entrust identity
+
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Hi Team, I need to install new remote desktop client application for Azure Virtual Desktop (AVD) on my laptop as per Accounts requirement. Please do the needful. Also attached mail for your reference.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'remote desktop', 'packages': [], 'versions': [], 'targets': ['desktop', 'Virtual', 'laptop'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['install'], 'software': 'Azure', 'packages': [], 'versions': [], 'targets': ['desktop', 'Virtual', 'laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: In my RDP oracle vm is not working .
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'RDP', 'packages': [], 'versions': [], 'targets': ['vm'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'oracle', 'packages': [], 'versions': [], 'targets': ['vm'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: I need to  install Visual Studio git hub & SQL server database
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Visual Studio', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'SQL server', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': ['Act'], 'Tasks': ['install'], 'software': 'git', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: Please install Cisco Packet Tracer
+Ref: RITM2262752 || Cisco Packet Tracer installation
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'RITM', 'packages': [], 'versions': ['2262752'], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['installation'], 'software': 'Cisco Packet Tracer', 'packages': [], 'versions': ['2262752'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Please install notepad++ on my laptop.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'notepad++', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need Notepad++ software to be installed in my system.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: my laptop os was updated hence the need to download the software's for project work hence can I get the self-service portal link, I need to install - chrome, vscode, nodejs, teams app, python, pychram community edition
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'chrome', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project work'], 'licenses': ['community']}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'vscode', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project work'], 'licenses': ['community']}
+task_id: 3, {'task_id': 3, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'nodejs', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project work'], 'licenses': ['community']}
+task_id: 4, {'task_id': 4, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'teams', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project work'], 'licenses': ['community']}
+task_id: 5, {'task_id': 5, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'python', 'packages': [], 'versions': [], 'targets': ['laptop'], 'justifications': ['for project work'], 'licenses': ['community']}
+Task_Complete: 0
+Task_Count: 5
+
+Input text: Notepad++ installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'Notepad++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help with RITM2532480
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'RITM', 'packages': [], 'versions': ['2532480'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Installation of the Openjdk22
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Installation'], 'software': 'Openjdk', 'packages': [], 'versions': ['22'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Visual studio enterprise 2022 and dot net core 8.0.200
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Visual studio', 'packages': [], 'versions': ['2022', '8.0.200'], 'targets': [], 'justifications': [], 'licenses': ['enterprise']}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'dot net core', 'packages': [], 'versions': ['2022', '8.0.200'], 'targets': [], 'justifications': [], 'licenses': ['enterprise']}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Practice server is not working in sap Lagon (HS4)
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Visual studio code ,java ide ,note ++ windows secuirty
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Visual studio', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': [], 'Tasks': [''], 'software': 'java', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 3, {'task_id': 3, 'type': [], 'Tasks': [''], 'software': 'note ++', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 3
+
+Input text: WinOTP need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'WinOTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: win OTP need to be install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'win OTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: win otp need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'win otp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Win OTP needs to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Win OTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WinOTP need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'WinOTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Win otp need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Win otp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Winotp need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Winotp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WIN OTP NEED TO INSTALL
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['INSTALL'], 'software': 'WIN OTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Winotp neet to Install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['Install'], 'software': 'Winotp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WinOTP need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'WinOTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: win otp need to be installed
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installed'], 'software': 'win otp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Winotp need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Winotp', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: win OTP need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'win OTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: WINOTP need to install
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'WINOTP', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: please raise a ticket to install Win OTP  authenticator in my  system
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Win OTP  authenticator', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: To install Wireshark application.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'Wireshark', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: I need SAP logon pad installation
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['installation'], 'software': 'SAP logon', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Windows:
+cisco-secure-client-win-5.1.3.62-predeploy-k9
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'cisco-secure-client', 'packages': [], 'versions': ['win-5.1.3.62'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Please help to install the latest version of packet tracer (8.2.2)
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'packet tracer', 'packages': [], 'versions': ['latest', '8.2.2'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Spring tool suite
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Need help to install git, I already have my manager's approval in mail
+
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'git', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: For my project I need to download Python and PyCharm, But I can't download Python and PyCharm Please resolve it as soon as possible it's urgent.
+task_id: 1, {'task_id': 1, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'Python', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act', 'Act'], 'Tasks': ['download'], 'software': 'PyCharm', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: I am unable to install pyhton interpreter. Please resolve this issue as soon as possible.
+task_id: 1, {'task_id': 1, 'type': ['Not able to', 'Act'], 'Tasks': ['install'], 'software': 'pyhton interpreter', 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: install jdk 17/21 and mysql server.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'jdk', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+task_id: 2, {'task_id': 2, 'type': ['Act'], 'Tasks': ['install'], 'software': 'mysql', 'packages': [], 'versions': [], 'targets': ['server'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 2
+
+Input text: Need support to install openSSh app on my system. because i am facing issue on that.
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': 'openSSh', 'packages': [], 'versions': [], 'targets': ['system'], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: need to install apps
+
+task_id: 1, {'task_id': 1, 'type': ['Act'], 'Tasks': ['install'], 'software': [], 'packages': [], 'versions': [], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
+Input text: Putty 0.81
+task_id: 1, {'task_id': 1, 'type': [], 'Tasks': [''], 'software': 'Putty', 'packages': [], 'versions': ['0.81'], 'targets': [], 'justifications': [], 'licenses': []}
+Task_Complete: 0
+Task_Count: 1
+
